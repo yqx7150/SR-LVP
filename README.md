@@ -11,16 +11,16 @@ forward_weight: Weight for forward loss.
 epoch: Specifies number of iterations.  
 
 ## The training pipeline of SR-LVP. The left part is data preprocessing, and the right part is the forward and reverse process of the reversible network.
-<div align="center"><img src="https://github.com/yqx7150/SR-LVP/blob/main/figs/Fig1.jpg"> </div>
+<div align="center"><img src="https://github.com/yqx7150/SR-LVP/tree/main/SR-LVP/figs/Fig1.jpg"> </div>
 
 ## The pipeline of SR-LVP.
-<div align="center"><img src="https://github.com/yqx7150/SR-LVP/blob/main/figs/Fig2.jpg"> </div>
+<div align="center"><img src="https://github.com/yqx7150/SR-LVP/tree/main/SR-LVP/figs/Fig2.jpg"> </div>
 
 ## Reconstruction results of Brain dataset and Cardiac dataset for SR-LVP.
-<div align="center"><img src="https://github.com/yqx7150/SR-LVP/blob/main/figs/Fig3.jpg"> </div>
+<div align="center"><img src="https://github.com/yqx7150/SR-LVP/tree/main/SR-LVP/figs/Fig3.jpg"> </div>
 
 ## Comparison results of different algorithms on the brain dataset.
-<div align="center"><img src="https://github.com/yqx7150/SR-LVP/blob/main/figs/Fig4.jpg"> </div>
+<div align="center"><img src="https://github.com/yqx7150/SR-LVP/tree/main/SR-LVP/figs/Fig4.jpg"> </div>
 
 # Train
 ```python
